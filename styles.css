@@ -78,9 +78,6 @@ body {
 .icon:hover{
 	cursor: pointer;
 }
-a:hover{
-	text-shadow: 0 0 5px;
-}
 
 .search-bg .search-icon:hover{
 	color: #525252;
